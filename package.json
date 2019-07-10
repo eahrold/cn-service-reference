@@ -1,0 +1,25 @@
+{
+  "name": "o1.cn_service",
+  "version": "1.0.0",
+  "description": "CN Service for OPES",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opespe/o1.cn_service.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/opespe/o1.cn_service/issues"
+  },
+  "homepage": "https://github.com/opespe/o1.cn_service#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-static": "^1.2.6"
+  }
+}
